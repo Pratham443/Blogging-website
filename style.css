@@ -1,0 +1,40 @@
+.Travel_Place {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.Travel_Place img {
+    width: 100%;
+}
+
+.Travel_Place hr {
+    width: 230px;
+}
+
+.Travel_Place h5,
+.Travel_Place p {
+    margin-left: 20px;
+}
+
+.movie-text span {
+    color: yellow;
+}
+
+.News-item {
+    margin-top: 13px;
+}
+
+.News-item h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.News-item img {
+    border-radius: 25px;
+}
+
+.News-item p {
+    margin-top: 10px;
+}
